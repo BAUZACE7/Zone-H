@@ -33,3 +33,7 @@ Replace your 2captcha API in the code
 
 
 . pip install 2captcha-python
+
+
+
+. pip install Pillow
